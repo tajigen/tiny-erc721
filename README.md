@@ -46,8 +46,8 @@ We really appreciate and value contributions to TinyERC721. If you have a sugges
 ### Local development
 
 ```console
-$ yarn test
-$ yarn test:gas
+$ npm run test
+$ npm run test:gas
 ```
 
 ## License

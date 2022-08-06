@@ -1,6 +1,6 @@
 {
   "name": "tiny-erc721",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "TinyERC721 contract for Solidity",
   "files": [
     "/contracts/**/*.sol",
