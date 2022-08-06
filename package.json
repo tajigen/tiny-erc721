@@ -2,7 +2,10 @@
   "name": "tiny-erc721",
   "version": "0.1.0",
   "description": "TinyERC721 contract for Solidity",
-  "main": "index.js",
+  "files": [
+    "/contracts/**/*.sol",
+    "!/contracts/mocks/**/*"
+  ],
   "scripts": {
     "compile": "hardhat compile",
     "test": "hardhat test",
